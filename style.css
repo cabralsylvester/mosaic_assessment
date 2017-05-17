@@ -1,0 +1,15 @@
+body{
+  background-color: #ffff66;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  background-color: #ffff66;
+  /*background-color: #3399ff;*/
+}
+
+.circuit {
+  text-align: center;
+  background-color: #ffff66;
+}
